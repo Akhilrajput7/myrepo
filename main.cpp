@@ -11,7 +11,10 @@ void add quick sort{
 void quicksort{
 //
 }
->>>>>>> quicksort
+void mergequicksort{
+>>>>>>
+}
+
  
 int main(){
 cout<<"hello world";
