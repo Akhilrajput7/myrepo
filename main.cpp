@@ -1,7 +1,10 @@
 #include<iostream>
 using namespace std;
-add bubble sort {
+void add bubble sort {
 //
+}
+void add quick sort{
+??
 }
  
 int main(){
