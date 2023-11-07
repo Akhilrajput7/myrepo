@@ -1,0 +1,5 @@
+1.create github account
+2.create a empty repo folder
+3. local system
+   git config --user.name "Akhilrajput7"
+   git config --user.email "rajputakhil393@gmail.com"
